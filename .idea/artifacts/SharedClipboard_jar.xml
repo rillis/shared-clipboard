@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SharedClipboard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SharedClipboard_jar</output-path>
+    <root id="archive" name="SharedClipboard.jar">
+      <element id="module-output" name="SharedClipboard" />
+    </root>
+  </artifact>
+</component>
